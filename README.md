@@ -1,4 +1,4 @@
-# Bank Marketing Machine Learning Project
+# Bank Marketing 
 
 This repository contains:
 - A Jupyter Notebook (.ipynb) for classification on the Bank Marketing dataset
